@@ -22,35 +22,35 @@ export default {
         code: ['monospace'],
       },
       colors: {
-        background: '#f8f9fa', // Light background
-        foreground: '#000000', // Neutral dark text
+        background: '#F5F5F5', // Light gray background (same as site bg)
+        foreground: '#1E1E1E', // Dark text
 
         primary: {
-          DEFAULT: '#246D1A', // Dark Green (Main Brand)
-          foreground: '#ffffff', // White text on green
+          DEFAULT: '#00205B', // Deep Navy Blue (brand color)
+          foreground: '#ffffff', // White text on blue
+          hover: '#001844', // Slightly darker blue for hover
+          active: '#000F2D', // Active state
         },
         secondary: {
-          DEFAULT: '#CF6024', // Orange Accent (Button / CTA)
-          hover: '#b94f1c', // Darker orange on hover
-          active: '#9a3f15', // Even darker for click state
-          foreground: '#ffffff',
+          DEFAULT: '#E3B505', // Golden yellow (accent)
+          hover: '#CFA304',
+          active: '#B89103',
+          foreground: '#1E1E1E', // Dark text on yellow
         },
         accent: {
-          DEFAULT: '#f3c14b', // Yellowish tone
-          foreground: '#000000',
+          DEFAULT: '#F5F5F5', // Soft gray section backgrounds
+          foreground: '#00205B',
         },
-        border: '#dee2e6',
-        input: '#e9ecef',
-        ring: '#246D1A',
+        border: '#DADADA', // Neutral gray
+        input: '#EDEDED',
+        ring: '#00205B', // Blue focus ring
 
-        // Custom Brand Colors
-        dpsGreen: '#246D1A',
-        dpsOrange: '#CF6024',
-        dpsOrangeHover: '#b94f1c',
-        dpsOrangeActive: '#9a3f15',
-        dpsLight: '#f8f9fa',
-        dpsDark: '#343a40',
-        dpsYellow: '#f3c14b',
+        // Custom Named Brand Colors
+        wiseBlue: '#00205B',
+        wiseBlueHover: '#001844',
+        wiseYellow: '#E3B505',
+        wiseGray: '#F5F5F5',
+        wiseText: '#1E1E1E',
       },
       borderRadius: {
         lg: 'var(--radius)',
