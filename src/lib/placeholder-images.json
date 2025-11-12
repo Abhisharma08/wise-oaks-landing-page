@@ -6,18 +6,7 @@
       "imageUrl": "https://res.cloudinary.com/ddqqlfsjp/image/upload/v1760612761/1683261043689_Summer053_f1shzt.jpg",
       "imageHint": "school campus"
     },
-    {
-      "id": "cbse-logo",
-      "description": "CBSE Logo",
-      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1761675150/cbse-logo_npu68q.png",
-      "imageHint": "logo"
-    },
-    {
-      "id": "dps-society-logo",
-      "description": "Delhi Public School Society Logo",
-      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1761675354/Delhi-Public-School-Logo_sjmnhv.png",
-      "imageHint": "logo"
-    },
+  
     {
       "id": "wise-oaks-logo",
       "description": "Wise School Logo",
