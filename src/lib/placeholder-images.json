@@ -6,7 +6,6 @@
       "imageUrl": "https://res.cloudinary.com/ddqqlfsjp/image/upload/v1760612761/1683261043689_Summer053_f1shzt.jpg",
       "imageHint": "school campus"
     },
-  
     {
       "id": "wise-oaks-logo",
       "description": "Wise School Logo",
@@ -15,33 +14,39 @@
     },
     {
       "id": "gallery-2",
-      "description": "School library",
-      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1762492476/WhatsApp_Image_2025-11-07_at_10.10.14_AM_rukml7.jpg",
-      "imageHint": "school library"
+      "description": "Smart Classroom Learning",
+      "imageUrl": "https://res.cloudinary.com/ddqqlfsjp/image/upload/v1770820559/1000424297.jpg_vyv7qg.jpg",
+      "imageHint": "Smart Classroom Learning"
     },
     {
       "id": "gallery-3",
       "description": "STEM & Robotics Labs",
-      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1762492473/WhatsApp_Image_2025-11-07_at_10.10.35_AM_q1hlrw.jpg",
+      "imageUrl": "https://res.cloudinary.com/ddqqlfsjp/image/upload/v1770820161/1000394090.jpg_vtnlrn.jpg",
       "imageHint": "STEM & Robotics Labs"
     },
     {
       "id": "gallery-4",
-      "description": "Sports & Outdoor Play",
-      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1762492475/WhatsApp_Image_2024-08-19_at_17.53.13.jpeg_lzp8df.jpg",
-      "imageHint": "Sports & Outdoor Play"
+      "description": "Strategic Thinking & Skill Development",
+      "imageUrl": "https://res.cloudinary.com/ddqqlfsjp/image/upload/v1770820614/1000373242.jpg_hx7gyx.jpg",
+      "imageHint": "Strategic Thinking & Skill Development"
     },
     {
       "id": "gallery-6",
-      "description": "Creative Arts",
-      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1762492486/IMG_3640_1_q366bh.jpg",
+      "description": "Holistic Growth Through Creative Expression",
+      "imageUrl": "https://res.cloudinary.com/ddqqlfsjp/image/upload/v1770820670/1000373423.jpg_hil3u3.jpg",
       "imageHint": "Creative Arts"
     },
     {
       "id": "gallery-8",
-      "description": "Cambridge Learning Resources",
-      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1762494257/Leadership_Activities_1_icu6u6.jpg",
-      "imageHint": "Cambridge Learning Resources"
+      "description": "Hands-On Laboratory Excellence",
+      "imageUrl": "https://res.cloudinary.com/ddqqlfsjp/image/upload/v1770820776/1000373290.jpg_qhiyhq.jpg",
+      "imageHint": "Hands-On Laboratory Excellence"
+    },
+    {
+      "id": "gallery-9",
+      "description": "Creative Expression & Artistic Excellence",
+      "imageUrl": "https://res.cloudinary.com/ddqqlfsjp/image/upload/v1770820974/1000373230.jpg_kkhb45.jpg",
+      "imageHint": "Creative Expression & Artistic Excellence"
     }
   ]
 }

@@ -8,7 +8,7 @@ export default function header() {
         <Link href="/" className="flex items-center gap-3 font-bold text-xl">
           <div className="bg-white p-1 rounded-md">
             <Image
-              src="https://res.cloudinary.com/dtc8bbbco/image/upload/v1762492099/Logo-header_qkxwz0.png"
+              src="https://res.cloudinary.com/ddqqlfsjp/image/upload/v1770785579/Logo-header_a5kd6x.png"
               alt="DPS Bharuch Logo"
               width={200}
               height={100}

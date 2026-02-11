@@ -9,7 +9,7 @@ export default function HeroSection() {
     >
       {/* 🔹 Background Image */}
       <Image
-        src="https://res.cloudinary.com/dtc8bbbco/image/upload/v1763618118/Upper_bukit_timah_road_1_icp22b.jpg"
+        src="https://res.cloudinary.com/ddqqlfsjp/image/upload/v1770785674/1636629885-headerbnr-slider2_vrsx3b.jpg"
         alt="School Building"
         fill
         className="object-cover"
